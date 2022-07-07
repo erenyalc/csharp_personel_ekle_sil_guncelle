@@ -1,0 +1,11 @@
+C:\Users\Erenyalc\source\repos\ders3\ders3\bin\Debug\ders3.exe.config
+C:\Users\Erenyalc\source\repos\ders3\ders3\bin\Debug\ders3.exe
+C:\Users\Erenyalc\source\repos\ders3\ders3\bin\Debug\ders3.pdb
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\personel_ekle_sil.csproj.AssemblyReference.cache
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\ders3.Form1.resources
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\ders3.Form2.resources
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\ders3.Properties.Resources.resources
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\personel_ekle_sil.csproj.GenerateResource.cache
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\personel_ekle_sil.csproj.CoreCompileInputs.cache
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\ders3.exe
+C:\Users\Erenyalc\source\repos\ders3\ders3\obj\Debug\ders3.pdb
